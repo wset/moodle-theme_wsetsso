@@ -1,0 +1,19 @@
+.path-login header, .wsetsso header, .path-login footer, .wsetsso footer, .path-login .block-region, .wsetsso .block-region {
+    display: none !important;
+}
+
+.path-login #region-main, .wsetsso #region-main {
+    width: 100% !important;
+}
+
+.path-login h2, .wsetsso h2, .path-login legend, .wsetsso legend {
+    background-color: rgb(39,96,147);
+    color: white;
+    padding: 0 1ex;
+    margin: 0.7em 0;
+}
+
+.path-login .boxwidthnormal, .wsetsso .boxwidthnormal {
+    width: 100%;
+    margin: 0.7em 0;
+}
